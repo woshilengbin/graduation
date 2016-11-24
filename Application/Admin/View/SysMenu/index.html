@@ -1,0 +1,54 @@
+<div class="pageContent">
+    <div class="panelBar">
+        <ul class="toolBar">
+            <if condition="checkAccess($user,'addSysMenu') eq true">
+                <li><a class="add" href="{:U('addSysMenu')}" target="dialog" mask="true"><span>系统菜单</span></a></li>
+            </if>
+            <if condition="checkAccess($user,'addSysMenuCate') eq true">
+                <li><a class="add" href="{:U('addSysMenuCate')}" target="dialog" mask="true" height="400"><span>菜单类别</span></a></li>
+            </if>
+        </ul>
+    </div>
+    <table class="table" width="100%" layoutH="138">
+        <thead>
+        <tr>
+            <th>菜单名</th>
+            <th>访问地址</th>
+            <th>引用rel</th>
+            <th>排序值</th>
+            <th>状态</th>
+            <th>操作</th>
+        </tr>
+        </thead>
+        <tbody>
+        <volist name="list" id="listItem">
+            <tr <eq name="listItem.status" value="0">class="color-red"</eq>>
+                <td>|-<for start="1" end="$listItem.level">---</for>{$listItem.title}&nbsp;</td>
+                <td>{$listItem.url}</td>
+                <td>{$listItem.rel}</td>
+                <td>{$listItem.sort}</td>
+                <td><eq name="listItem.status" value="1">启用中<else/>禁用中</eq></td>
+                <td>
+                    <eq name="listItem.level" value="1">
+                        <if condition="checkAccess($user,'editSysMenuCate') eq true">
+                            <a href="{:U('editSysMenuCate',array('id'=>$listItem['id']))}" target="dialog" height="400">[编辑]</a>
+                        </if>
+                        <empty name="listItem.isHasSon">
+                            <if condition="checkAccess($user,'deleteSysMenuCate') eq true">
+                                <a href="{:U('deleteSysMenuCate',array('id'=>$listItem['id']))}" target="ajaxTodo" title="确定要删除吗？">[删除]</a>
+                            </if>
+                        </empty>
+                        <else/>
+                        <if condition="checkAccess($user,'editSysMenu') eq true">
+                            <a href="{:U('editSysMenu',array('id'=>$listItem['id']))}" target="dialog">[编辑]</a>
+                        </if>
+                        <if condition="checkAccess($user,'deleteSysMenu') eq true">
+                            <a href="{:U('deleteSysMenu',array('id'=>$listItem['id']))}" target="ajaxTodo" title="确定要删除吗？">[删除]</a>
+                        </if>
+                    </eq>
+                </td>
+            </tr>
+        </volist>
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,49 @@
+body{
+    background: url("../images/login_bg.jpg") no-repeat center top;
+}
+#login-box .modal-dialog{
+    margin-top: 100px;
+}
+#login-box .form-control{
+    height: 45px;
+    font-size: 18px;
+    background-color: #2B2B36;
+    color: #FFFFFF;
+}
+#login-box .control-label{
+    font-size: 18px;
+}
+#login-box .modal-header{
+    background-color: #23232E;
+    color: #FFFFFF;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom: none;
+}
+#login-box .modal-body{
+    background-color: #2B2B36;
+    color: #FFFFFF;
+}
+#login-box .btn-login{
+    background-color:#3EA751;
+    font-size: 35px;
+    color: #FFFFFF;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    transition: all 1s ease 0s;
+}
+#login-box .btn-login:hover{
+    background-color: #FF2775;
+}
+#login-box .checkCode-wrap{
+    padding-right: 120px;
+}
+#login-box .checkcode-img{
+    margin-top: -45px;
+}
+#login-box .company-info{
+    color: #cccccc;
+}
+#login-box .company-info a{
+    color: #dddddd;
+}

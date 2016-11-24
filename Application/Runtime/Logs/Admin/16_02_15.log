@@ -1,0 +1,1869 @@
+[ 2016-02-15T09:17:42+08:00 ] ::1 /graduation/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001069s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+
+[ 2016-02-15T09:17:42+08:00 ] ::1 /graduation/admin.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001208s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+NOTIC: [8] Undefined variable: username D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 31 行.
+NOTIC: [8] Undefined variable: password D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028062s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028163s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001150s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000947s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001029s ]
+
+[ 2016-02-15T09:17:42+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000987s ]
+
+[ 2016-02-15T09:20:44+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html?t=1455499244051
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+
+[ 2016-02-15T09:20:45+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html?t=1455499245307
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+
+[ 2016-02-15T09:20:46+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html?t=1455499246811
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+
+[ 2016-02-15T09:26:19+08:00 ] ::1 /graduation/admin.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002390s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000306s ]
+NOTIC: [8] Undefined variable: username D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 31 行.
+NOTIC: [8] Undefined variable: password D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014910s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015017s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001631s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001712s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001839s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001927s ]
+
+[ 2016-02-15T09:26:19+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002897s ]
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/,D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: ϵͳ�Ҳ���ָ����·���� (code: 3) D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: failed to open dir: No such file or directory D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+
+[ 2016-02-15T09:26:22+08:00 ] ::1 /graduation/admin.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002406s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+NOTIC: [8] Undefined variable: username D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 31 行.
+NOTIC: [8] Undefined variable: password D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013612s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013709s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001578s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001660s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002201s ]
+
+[ 2016-02-15T09:26:22+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002397s ]
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/,D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: ϵͳ�Ҳ���ָ����·���� (code: 3) D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: failed to open dir: No such file or directory D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+
+[ 2016-02-15T09:26:23+08:00 ] ::1 /graduation/admin.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002382s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000252s ]
+NOTIC: [8] Undefined variable: username D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 31 行.
+NOTIC: [8] Undefined variable: password D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014615s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014717s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002165s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002255s ]
+
+[ 2016-02-15T09:26:23+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001951s ]
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/,D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: ϵͳ�Ҳ���ָ����·���� (code: 3) D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: failed to open dir: No such file or directory D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+
+[ 2016-02-15T09:26:37+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001162s ]
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/,D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: ϵͳ�Ҳ���ָ����·���� (code: 3) D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: failed to open dir: No such file or directory D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+
+[ 2016-02-15T09:28:21+08:00 ] ::1 /graduation/admin.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001190s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000223s ]
+NOTIC: [8] Undefined variable: username D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 31 行.
+NOTIC: [8] Undefined variable: password D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023728s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002039s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001180s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001257s ]
+
+[ 2016-02-15T09:28:21+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/,D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: ϵͳ�Ҳ���ָ����·���� (code: 3) D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: failed to open dir: No such file or directory D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+
+[ 2016-02-15T09:28:28+08:00 ] ::1 /graduation/admin.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001635s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000203s ]
+NOTIC: [8] Undefined variable: username D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 31 行.
+NOTIC: [8] Undefined variable: password D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012321s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012418s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001237s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001326s ]
+
+[ 2016-02-15T09:28:28+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001409s ]
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/,D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: ϵͳ�Ҳ���ָ����·���� (code: 3) D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: failed to open dir: No such file or directory D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+
+[ 2016-02-15T09:30:56+08:00 ] ::1 /graduation/admin.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000261s ]
+NOTIC: [8] Undefined variable: username D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 31 行.
+NOTIC: [8] Undefined variable: password D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012528s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012634s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001709s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001865s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001486s ]
+
+[ 2016-02-15T09:30:56+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/,D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: ϵͳ�Ҳ���ָ����·���� (code: 3) D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: failed to open dir: No such file or directory D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+
+[ 2016-02-15T09:30:59+08:00 ] ::1 /graduation/admin.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000213s ]
+NOTIC: [8] Undefined variable: username D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 31 行.
+NOTIC: [8] Undefined variable: password D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010489s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010586s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000562s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000788s ]
+
+[ 2016-02-15T09:30:59+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.019787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019928s ]
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/,D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: ϵͳ�Ҳ���ָ����·���� (code: 3) D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: failed to open dir: No such file or directory D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+
+[ 2016-02-15T09:31:09+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/,D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: ϵͳ�Ҳ���ָ����·���� (code: 3) D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: failed to open dir: No such file or directory D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+
+[ 2016-02-15T09:32:05+08:00 ] ::1 /graduation/admin.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000143s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000289s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011721s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011838s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000784s ]
+
+[ 2016-02-15T09:32:05+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/,D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: ϵͳ�Ҳ���ָ����·���� (code: 3) D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: failed to open dir: No such file or directory D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+
+[ 2016-02-15T09:32:11+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007425s ]
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/,D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: ϵͳ�Ҳ���ָ����·���� (code: 3) D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: failed to open dir: No such file or directory D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+
+[ 2016-02-15T09:35:48+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013299s ]
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/,D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: ϵͳ�Ҳ���ָ����·���� (code: 3) D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: failed to open dir: No such file or directory D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+
+[ 2016-02-15T09:36:45+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001106s ]
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/,D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: ϵͳ�Ҳ���ָ����·���� (code: 3) D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+NOTIC: [2] dir(D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think/Verify/ttfs/) [<a href='function.dir'>function.dir</a>]: failed to open dir: No such file or directory D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Verify.class.php 第 129 行.
+
+[ 2016-02-15T09:39:12+08:00 ] ::1 /graduation/admin.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001170s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+NOTIC: [8] Undefined variable: username D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 31 行.
+NOTIC: [8] Undefined variable: password D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012041s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012135s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000935s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001248s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001332s ]
+
+[ 2016-02-15T09:39:12+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001349s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001759s ]
+
+[ 2016-02-15T09:39:54+08:00 ] ::1 /graduation/admin.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001450s ]
+SQL: SHOW COLUMNS FROM `t_admin` [ RunTime:0.0226s ]
+SQL: SELECT * FROM `t_admin` WHERE `username` = 'admin' AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0064s ]
+SQL: UPDATE `t_admin` SET `count`='85',`last_time`='1455500394',`last_ip`='0.0.0.0' WHERE `id` = 1 [ RunTime:0.0016s ]
+
+[ 2016-02-15T09:39:54+08:00 ] ::1 /graduation/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001981s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `status` = 1 ORDER BY sort  [ RunTime:0.0172s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000198s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000313s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027491s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001289s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001477s ]
+
+[ 2016-02-15T09:39:58+08:00 ] ::1 /graduation/admin.php/User/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001397s ]
+
+[ 2016-02-15T09:39:58+08:00 ] ::1 /graduation/admin.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001096s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000203s ]
+NOTIC: [8] Undefined variable: username D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 31 行.
+NOTIC: [8] Undefined variable: password D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011288s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011391s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000739s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000924s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001003s ]
+
+[ 2016-02-15T09:39:58+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001229s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001350s ]
+
+[ 2016-02-15T09:49:51+08:00 ] ::1 /graduation/admin.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001258s ]
+SQL: SHOW COLUMNS FROM `t_admin` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `t_admin` WHERE `username` = 'admin' AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `t_admin` SET `count`='86',`last_time`='1455500991',`last_ip`='0.0.0.0' WHERE `id` = 1 [ RunTime:0.0004s ]
+
+[ 2016-02-15T09:49:51+08:00 ] ::1 /graduation/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `status` = 1 ORDER BY sort  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000197s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000299s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020147s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001007s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001197s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001307s ]
+
+[ 2016-02-15T09:50:03+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html?_=1455500992260
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008561s ]
+ERR: 无法加载控制器:SysMenu
+
+[ 2016-02-15T09:50:15+08:00 ] ::1 /graduation/admin.php/Member/memberList.html?_=1455500992261
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002607s ]
+ERR: 无法加载控制器:Member
+
+[ 2016-02-15T09:59:20+08:00 ] ::1 /graduation/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001775s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+ERR: SQLSTATE[42000] [1049] Unknown database 'gradution'
+
+[ 2016-02-15T09:59:37+08:00 ] ::1 /graduation/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001168s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+ERR: 1146:Table 'graduation.t_sys_menu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `t_sys_menu`
+ERR: 1146:Table 'graduation.t_sys_menu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `t_sys_menu`
+
+[ 2016-02-15T09:59:41+08:00 ] ::1 /graduation/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001097s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+ERR: 1146:Table 'graduation.t_sys_menu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `t_sys_menu`
+ERR: 1146:Table 'graduation.t_sys_menu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `t_sys_menu`
+
+[ 2016-02-15T10:00:25+08:00 ] ::1 /graduation/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001210s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `status` = 1 ORDER BY sort  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000190s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000287s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019926s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020046s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000959s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001244s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001373s ]
+
+[ 2016-02-15T10:00:30+08:00 ] ::1 /graduation/admin.php/PushSystemPackage/systemPackageList.html?_=1455501625609
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002004s ]
+ERR: 无法加载控制器:PushSystemPackage
+
+[ 2016-02-15T10:00:35+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html?_=1455501625610
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001314s ]
+ERR: 无法加载控制器:SysMenu
+
+[ 2016-02-15T10:01:07+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html?_=1455501625611
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002187s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `t_sys_menu` ORDER BY sort  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018126s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018211s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002535s ]
+
+[ 2016-02-15T10:01:15+08:00 ] ::1 /graduation/admin.php/SysMenu/addSysMenu.html?_=1455501625612
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+ERR: 1146:Table 'graduation.t_sys_menu_cate' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `t_sys_menu_cate`
+ERR: 1146:Table 'graduation.t_sys_menu_cate' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `t_sys_menu_cate`
+
+[ 2016-02-15T10:01:44+08:00 ] ::1 /graduation/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001937s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `status` = 1 ORDER BY sort  [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000280s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000447s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017048s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017175s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001501s ]
+
+[ 2016-02-15T10:01:48+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html?_=1455501705036
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001498s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `t_sys_menu` ORDER BY sort  [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000215s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018817s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018923s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000932s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001038s ]
+
+[ 2016-02-15T10:02:02+08:00 ] ::1 /graduation/admin.php/SysMenu/addSysMenu.html?_=1455501705037
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001023s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+ERR: 1146:Table 'graduation.t_sys_menu_cate' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `t_sys_menu_cate`
+ERR: 1146:Table 'graduation.t_sys_menu_cate' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `t_sys_menu_cate`
+
+[ 2016-02-15T10:07:56+08:00 ] ::1 /graduation/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001218s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `status` = 1 ORDER BY sort  [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000202s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000308s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022476s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022606s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000794s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.060694s ]
+
+[ 2016-02-15T10:08:00+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html?_=1455502076958
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002204s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `t_sys_menu` ORDER BY sort  [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000250s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019576s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019699s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001448s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001533s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001098s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001201s ]
+
+[ 2016-02-15T10:08:02+08:00 ] ::1 /graduation/admin.php/SysMenu/addSysMenu.html?_=1455502076959
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001740s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0066s ]
+SQL: SELECT `id`,`title` FROM `t_sys_menu` WHERE `level` = 1 ORDER BY sort  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011909s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012014s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000939s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001025s ]
+
+[ 2016-02-15T10:08:05+08:00 ] ::1 /graduation/admin.php/SysMenu/addSysMenuCate.html?_=1455502076960
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001233s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011108s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001108s ]
+
+[ 2016-02-15T10:08:05+08:00 ] ::1 /graduation/admin.php/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `status` = 1 ORDER BY sort  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000194s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000292s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017598s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017715s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001607s ]
+
+[ 2016-02-15T10:08:14+08:00 ] ::1 /graduation/admin.php/SysMenu/editSysMenuCate/id/2.html?_=1455502076961
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001598s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000391s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013628s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000798s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000907s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001115s ]
+
+[ 2016-02-15T10:08:15+08:00 ] ::1 /graduation/admin.php/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001079s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `status` = 1 ORDER BY sort  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000189s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000281s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017497s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000853s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001163s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001254s ]
+
+[ 2016-02-15T10:09:18+08:00 ] ::1 /graduation/admin.php/SysMenu/deleteSysMenu/id/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000957s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001450s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0084s ]
+SQL: DELETE FROM `t_sys_menu` WHERE `id` = 7 [ RunTime:0.0007s ]
+
+[ 2016-02-15T10:09:18+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html?_=1455502076962
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001719s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `t_sys_menu` ORDER BY sort  [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000215s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018085s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018192s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000850s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000925s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001202s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001300s ]
+
+[ 2016-02-15T10:09:22+08:00 ] ::1 /graduation/admin.php/SysMenu/deleteSysMenu/id/17.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001388s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0081s ]
+SQL: DELETE FROM `t_sys_menu` WHERE `id` = 17 [ RunTime:0.0011s ]
+
+[ 2016-02-15T10:09:22+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html?_=1455502076963
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001147s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `t_sys_menu` ORDER BY sort  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000220s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017985s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018089s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001236s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001189s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001315s ]
+
+[ 2016-02-15T10:09:25+08:00 ] ::1 /graduation/admin.php/SysMenu/deleteSysMenu/id/13.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001397s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0078s ]
+SQL: DELETE FROM `t_sys_menu` WHERE `id` = 13 [ RunTime:0.0007s ]
+
+[ 2016-02-15T10:09:25+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html?_=1455502076964
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002400s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `t_sys_menu` ORDER BY sort  [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000213s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017126s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001280s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001477s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001128s ]
+
+[ 2016-02-15T10:09:29+08:00 ] ::1 /graduation/admin.php/SysMenu/deleteSysMenu/id/16.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001299s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0077s ]
+SQL: DELETE FROM `t_sys_menu` WHERE `id` = 16 [ RunTime:0.0006s ]
+
+[ 2016-02-15T10:09:30+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html?_=1455502076965
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001373s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0087s ]
+SQL: SELECT * FROM `t_sys_menu` ORDER BY sort  [ RunTime:0.0024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000231s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018144s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000968s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000942s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001024s ]
+
+[ 2016-02-15T10:09:36+08:00 ] ::1 /graduation/admin.php/SysMenu/deleteSysMenuCate/id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001022s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0102s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_sys_menu` WHERE `pid` = 4 AND `level` = 2 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `t_sys_menu` WHERE `id` = 4 [ RunTime:0.0006s ]
+SQL: DELETE FROM `t_sys_menu` WHERE `pid` = 4 AND `level` = 2 [ RunTime:0.0005s ]
+
+[ 2016-02-15T10:09:36+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html?_=1455502076966
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001100s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `t_sys_menu` ORDER BY sort  [ RunTime:0.0034s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000263s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019143s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019273s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000888s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000897s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000973s ]
+
+[ 2016-02-15T10:11:01+08:00 ] ::1 /graduation/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `status` = 1 ORDER BY sort  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000226s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000344s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017488s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000695s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001159s ]
+
+[ 2016-02-15T10:11:08+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html?_=1455502262349
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001194s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0083s ]
+SQL: SELECT * FROM `t_sys_menu` ORDER BY sort  [ RunTime:0.0056s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017830s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000979s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000992s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001080s ]
+
+[ 2016-02-15T10:11:19+08:00 ] ::1 /graduation/admin.php/SysMenu/deleteSysMenuCate/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001122s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0104s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_sys_menu` WHERE `pid` = 1 AND `level` = 2 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `t_sys_menu` WHERE `id` = 1 [ RunTime:0.0008s ]
+SQL: DELETE FROM `t_sys_menu` WHERE `pid` = 1 AND `level` = 2 [ RunTime:0.0005s ]
+
+[ 2016-02-15T10:11:20+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html?_=1455502262350
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001564s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `t_sys_menu` ORDER BY sort  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016718s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016828s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000907s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000937s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001020s ]
+
+[ 2016-02-15T10:11:23+08:00 ] ::1 /graduation/admin.php/SysMenu/deleteSysMenuCate/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001614s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0069s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_sys_menu` WHERE `pid` = 2 AND `level` = 2 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0009s ]
+SQL: DELETE FROM `t_sys_menu` WHERE `id` = 2 [ RunTime:0.0008s ]
+SQL: DELETE FROM `t_sys_menu` WHERE `pid` = 2 AND `level` = 2 [ RunTime:0.0003s ]
+
+[ 2016-02-15T10:11:23+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html?_=1455502262351
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001358s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `t_sys_menu` ORDER BY sort  [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000999s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000994s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001079s ]
+
+[ 2016-02-15T10:11:25+08:00 ] ::1 /graduation/admin.php/SysMenu/deleteSysMenuCate/id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001237s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_sys_menu` WHERE `pid` = 3 AND `level` = 2 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0013s ]
+SQL: DELETE FROM `t_sys_menu` WHERE `id` = 3 [ RunTime:0.0004s ]
+SQL: DELETE FROM `t_sys_menu` WHERE `pid` = 3 AND `level` = 2 [ RunTime:0.0002s ]
+
+[ 2016-02-15T10:11:25+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html?_=1455502262352
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001342s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `t_sys_menu` ORDER BY sort  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016330s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016452s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000840s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000907s ]
+
+[ 2016-02-15T10:22:11+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html?_=1455502262353
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003745s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001228s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `t_sys_menu` ORDER BY sort  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000219s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017413s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017545s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000919s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000993s ]
+
+[ 2016-02-15T10:22:14+08:00 ] ::1 /graduation/admin.php/SysMenu/addSysMenu.html?_=1455502262354
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0075s ]
+SQL: SELECT `id`,`title` FROM `t_sys_menu` WHERE `level` = 1 ORDER BY sort  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000252s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012941s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013101s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000920s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001154s ]
+
+[ 2016-02-15T10:22:19+08:00 ] ::1 /graduation/admin.php/SysMenu/addSysMenuCate.html?_=1455502262355
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001297s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000335s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011088s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001647s ]
+
+[ 2016-02-15T10:22:20+08:00 ] ::1 /graduation/admin.php/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001224s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `status` = 1 ORDER BY sort  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000206s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000300s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021560s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021796s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000979s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001079s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001230s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001329s ]
+
+[ 2016-02-15T10:24:49+08:00 ] ::1 /graduation/admin.php/User/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001438s ]
+
+[ 2016-02-15T10:24:49+08:00 ] ::1 /graduation/admin.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001197s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000203s ]
+NOTIC: [8] Undefined variable: username D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 31 行.
+NOTIC: [8] Undefined variable: password D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011192s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011307s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000959s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001161s ]
+
+[ 2016-02-15T10:24:49+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001307s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001247s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001383s ]
+
+[ 2016-02-15T10:25:50+08:00 ] ::1 /graduation/admin.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+NOTIC: [8] Undefined variable: username D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 28 行.
+NOTIC: [8] Undefined variable: password D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012252s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012341s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000868s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000968s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001384s ]
+
+[ 2016-02-15T10:25:50+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001511s ]
+
+[ 2016-02-15T10:25:51+08:00 ] ::1 /graduation/admin.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001170s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+NOTIC: [8] Undefined variable: username D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 28 行.
+NOTIC: [8] Undefined variable: password D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\dd023d97164b5a749e2edb2ef1228c9f.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011663s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011748s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000793s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000869s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001498s ]
+
+[ 2016-02-15T10:25:51+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001468s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001757s ]
+
+[ 2016-02-15T10:26:01+08:00 ] ::1 /graduation/admin.php/User/getCheckCode.html?t=1455503161206
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001183s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001307s ]
+
+[ 2016-02-15T10:26:07+08:00 ] ::1 /graduation/admin.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001246s ]
+SQL: SHOW COLUMNS FROM `t_admin` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `t_admin` WHERE `username` = 'admin' AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `t_admin` SET `count`='85',`last_time`='1455503167',`last_ip`='0.0.0.0' WHERE `id` = 1 [ RunTime:0.0008s ]
+
+[ 2016-02-15T10:26:07+08:00 ] ::1 /graduation/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001238s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `status` = 1 ORDER BY sort  [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000214s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000328s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020187s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020292s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000842s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001673s ]
+
+[ 2016-02-15T10:26:15+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html?_=1455503168537
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0154s ]
+SQL: SELECT * FROM `t_sys_menu` ORDER BY sort  [ RunTime:0.0056s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017349s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017460s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001341s ]
+
+[ 2016-02-15T11:04:18+08:00 ] ::1 /graduation/admin.php/SysMenu/addSysMenuCate.html?_=1455503168538
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002562s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012024s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012130s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000936s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001827s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001945s ]
+
+[ 2016-02-15T11:04:19+08:00 ] ::1 /graduation/admin.php/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001103s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `status` = 1 ORDER BY sort  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000190s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000276s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017467s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017822s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000727s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001612s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001719s ]
+
+[ 2016-02-15T11:04:33+08:00 ] ::1 /graduation/admin.php/SysMenu/addSysMenuCate.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0211s ]
+NOTIC: [8] Undefined index: validate D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `t_sys_menu` (`icon`,`title`,`sort`,`status`,`level`) VALUES ('','导航设置','1','1','1') [ RunTime:0.0505s ]
+
+[ 2016-02-15T11:04:33+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001109s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `t_sys_menu` ORDER BY sort  [ RunTime:0.0240s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000181s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000351s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020887s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021101s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001525s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002123s ]
+
+[ 2016-02-15T11:04:36+08:00 ] ::1 /graduation/admin.php/SysMenu/addSysMenu.html?_=1455503168539
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001171s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001293s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0120s ]
+SQL: SELECT `id`,`title` FROM `t_sys_menu` WHERE `level` = 1 ORDER BY sort  [ RunTime:0.0023s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013616s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013717s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001153s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001230s ]
+
+[ 2016-02-15T11:05:36+08:00 ] ::1 /graduation/admin.php/SysMenu/addSysMenu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001537s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0075s ]
+NOTIC: [8] Undefined index: validate D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `t_sys_menu` WHERE `url` = 'Navigation/index' LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: auto D:\Program Files\USBWebserver\root\graduation\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `t_sys_menu` (`pid`,`title`,`url`,`rel`,`sort`,`status`,`level`) VALUES ('18','导航列表','Navigation/index','Navigation_index','','1','2') [ RunTime:0.0005s ]
+
+[ 2016-02-15T11:05:36+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001164s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001275s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `t_sys_menu` ORDER BY sort  [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000241s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017917s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018133s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001260s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001365s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002492s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002611s ]
+
+[ 2016-02-15T11:05:39+08:00 ] ::1 /graduation/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001013s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001222s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `status` = 1 ORDER BY sort  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000250s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000355s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018234s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018341s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001424s ]
+
+[ 2016-02-15T11:05:46+08:00 ] ::1 /graduation/admin.php/SysMenu/index.html?_=1455505540938
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002143s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `t_sys_menu` ORDER BY sort  [ RunTime:0.0024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016279s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016449s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001130s ]
+
+[ 2016-02-15T11:07:49+08:00 ] ::1 /graduation/admin.php/Navigation/index.html?_=1455505540939
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.021965s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+ERR: 无法加载控制器:Navigation
+
+[ 2016-02-15T11:17:12+08:00 ] ::1 /graduation/admin.php/Navigation/index.html?_=1455505540940
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001363s ]
+ERR: 无法加载控制器:Navigation
+
+[ 2016-02-15T11:17:14+08:00 ] ::1 /graduation/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001257s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `status` = 1 ORDER BY sort  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000204s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000302s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016842s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016934s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001311s ]
+
+[ 2016-02-15T11:17:17+08:00 ] ::1 /graduation/admin.php/Navigation/index.html?_=1455506235372
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001171s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001340s ]
+ERR: 无法加载控制器:Navigation
+
+[ 2016-02-15T11:18:37+08:00 ] ::1 /graduation/admin.php/Navigation/index.html?_=1455506235373
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001566s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8] Undefined variable: curPage D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 14 行.
+NOTIC: [8] Undefined variable: pageSize D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 15 行.
+NOTIC: [8] Undefined variable: orderField D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 16 行.
+NOTIC: [8] Undefined variable: orderDirection D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 17 行.
+NOTIC: [8] Use of undefined constant apkList - assumed 'apkList' D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 20 行.
+NOTIC: [8] Undefined variable: keyword D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 25 行.
+NOTIC: [8] Undefined variable: user D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 35 行.
+ERR: 1146:Table 'graduation.t_auth_group_access' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `t_auth_group_access`
+ERR: 1146:Table 'graduation.t_auth_group_access' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `t_auth_group_access`
+
+[ 2016-02-15T11:18:40+08:00 ] ::1 /graduation/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `status` = 1 ORDER BY sort  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000194s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000285s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016841s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016937s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000869s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001125s ]
+
+[ 2016-02-15T11:18:43+08:00 ] ::1 /graduation/admin.php/Navigation/index.html?_=1455506321472
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000243s ]
+NOTIC: [8] Undefined variable: curPage D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 14 行.
+NOTIC: [8] Undefined variable: pageSize D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 15 行.
+NOTIC: [8] Undefined variable: orderField D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 16 行.
+NOTIC: [8] Undefined variable: orderDirection D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 17 行.
+NOTIC: [8] Use of undefined constant apkList - assumed 'apkList' D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 20 行.
+NOTIC: [8] Undefined variable: keyword D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 25 行.
+NOTIC: [8] Undefined variable: user D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 35 行.
+ERR: 1146:Table 'graduation.t_auth_group_access' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `t_auth_group_access`
+ERR: 1146:Table 'graduation.t_auth_group_access' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `t_auth_group_access`
+
+[ 2016-02-15T11:18:48+08:00 ] ::1 /graduation/admin.php/Navigation/index.html?_=1455506321473
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000348s ]
+NOTIC: [8] Undefined variable: curPage D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 14 行.
+NOTIC: [8] Undefined variable: pageSize D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 15 行.
+NOTIC: [8] Undefined variable: orderField D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 16 行.
+NOTIC: [8] Undefined variable: orderDirection D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 17 行.
+NOTIC: [8] Use of undefined constant apkList - assumed 'apkList' D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 20 行.
+NOTIC: [8] Undefined variable: keyword D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 25 行.
+NOTIC: [8] Undefined variable: user D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 35 行.
+ERR: 1146:Table 'graduation.t_auth_group_access' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `t_auth_group_access`
+ERR: 1146:Table 'graduation.t_auth_group_access' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `t_auth_group_access`
+
+[ 2016-02-15T11:19:50+08:00 ] ::1 /graduation/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001807s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `status` = 1 ORDER BY sort  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000188s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000274s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017157s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017247s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001264s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001357s ]
+
+[ 2016-02-15T11:19:52+08:00 ] ::1 /graduation/admin.php/Navigation/index.html?_=1455506391272
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002011s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000309s ]
+NOTIC: [8] Undefined variable: curPage D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 14 行.
+NOTIC: [8] Undefined variable: pageSize D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 15 行.
+NOTIC: [8] Undefined variable: orderField D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 16 行.
+NOTIC: [8] Undefined variable: orderDirection D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 17 行.
+NOTIC: [8] Use of undefined constant apkList - assumed 'apkList' D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 20 行.
+NOTIC: [8] Undefined variable: keyword D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 25 行.
+NOTIC: [8] Undefined variable: orderDirection D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 45 行.
+NOTIC: [8] Undefined variable: orderDirection D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 46 行.
+NOTIC: [8] Undefined variable: orderDirection D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 47 行.
+NOTIC: [8] Undefined variable: list D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 56 行.
+NOTIC: [8] Undefined variable: pageSize D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 74 行.
+NOTIC: [8] Undefined variable: pageSize D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 75 行.
+NOTIC: [8] Undefined variable: pageSize D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 76 行.
+NOTIC: [8] Undefined variable: pageSize D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 77 行.
+NOTIC: [8] Undefined variable: pageCount D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 79 行.
+NOTIC: [8] Undefined variable: pageCount D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 82 行.
+NOTIC: [8] Undefined variable: pageSize D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 82 行.
+NOTIC: [8] Undefined variable: pageSize D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 82 行.
+NOTIC: [8] Undefined variable: curPage D:\Program Files\USBWebserver\root\graduation\Application\Runtime\Cache\Admin\33c76b39ba8e8172c58702e5724629e5.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018896s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001103s ]
+

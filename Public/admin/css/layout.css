@@ -1,0 +1,89 @@
+.padding10{
+    padding: 10px;
+}
+.padding5{
+    padding: 5px;
+}
+.clearFix{
+    clear: both;
+}
+.pull-right{
+    float: right;
+}
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    font-size: 14px;
+}
+.grid .gridTbody td{
+    padding-top:5px;
+    padding-bottom:5px;
+}
+.grid .gridTbody td div{
+    height: auto;
+    line-height: normal;
+}
+.grid .gridTbody td div img.icon,.list td .icon{
+    width: 40px;
+    height: auto;
+}
+
+.pageFormContent p{
+    height: auto;
+}
+.pageFormContent .hide{
+    display: none;
+}
+
+.panelBar{
+    height: 35px;
+}
+.panelBar li,.panelBar .pages{
+    margin-top: 5px;
+}
+
+.collapse-panel>ul>li h2{
+    background-color: #eeeeee;
+    padding: 3px 5px;
+    border-radius: 5px;
+}
+.collapse-panel>ul>li.active h2{
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.collapse-panel>ul>li{
+    border: 1px solid #0099FF;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    border-radius: 5px;
+}
+.collapse-panel .collapse-content{
+    display: none;
+    padding:5px;
+}
+.collapse-panel .active .collapse-content{
+    display: block;
+    border-top:1px solid #0099FF;
+}
+
+.searchBar ul.searchContent{
+    height: 35px;
+}
+.searchBar ul.searchContent li{
+    height: 31px;
+}
+.searchBar .textInput{
+    height:20px;
+    line-height: 20px;
+}
+.color-white{
+    color: #b9ccda;
+}
+.color-red{
+    color: #FF0000;
+}
+.pageFormContent .textInput{
+    width: 200px;
+}
+.inline-block{
+    display: inline-block;
+}

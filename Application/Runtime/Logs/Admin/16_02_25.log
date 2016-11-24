@@ -1,0 +1,17 @@
+[ 2016-02-25T19:13:16+08:00 ] ::1 /graduation/admin.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.102317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016434s ]
+NOTIC: [8] Undefined index: PHPSESSID D:\Program Files\USBWebserver\root\graduation\Application\Common\Controller\AdminBaseController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' D:\Program Files\USBWebserver\root\graduation\Application\Admin\Controller\IndexController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `t_sys_menu` [ RunTime:0.0886s ]
+SQL: SELECT * FROM `t_sys_menu` WHERE `status` = 1 ORDER BY sort  [ RunTime:0.0127s ]
+NOTIC: [8] Undefined index: is_root D:\Program Files\USBWebserver\root\graduation\Application\Common\Common\function.php 第 60 行.
+ERR: 1146:Table 'graduation.t_auth_group_access' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `t_auth_group_access`
+ERR: 1146:Table 'graduation.t_auth_group_access' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `t_auth_group_access`
+

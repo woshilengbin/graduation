@@ -1,0 +1,37 @@
+<div class="pageContent">
+    <form method="post" action="{:U('editAdmin')}" class="pageForm required-validate form-horizontal"  onsubmit="return validateCallback(this, dialogAjaxDone);">
+        <div class="pageFormContent" layoutH="56">
+            <P>
+                <label>用户名：</label>
+                <input name="username" type="text" value="{$list.username}" class="required" size="25" />
+            </P>
+            <p>
+                <label>密码：</label>
+                <input name="password" type="text" size="25"/>
+            </p>
+            <p>
+                <label>权限组：</label>
+                <div class="checkbox-group"style="float:left;margin-left:125px;">
+                    <volist name="groupList" id="groupItem" style="float:left;margin-left:125px;">
+                        <div style="float:left; margin-rigin:100px" <notempty name="groupItem.checked">class="active"</notempty>>
+                            <input type="checkbox" data-toggle="select-checkbox" name="group_id[]" value="{$groupItem.id}" <notempty name="groupItem.checked">checked</notempty>>&nbsp;&nbsp;{$groupItem.title}
+                        </div>
+                    </volist>
+                </div>
+            </p>
+            <p>
+                <label>状态：</label>
+                <input name="status" type="radio" <eq name="list.status" value="1">checked="checked"</eq> value="1" />启用&nbsp;
+                <input name="status" type="radio" <eq name="list.status" value="0">checked="checked"</eq> value="0"/>禁用
+            </p>
+            <input type="hidden" name="id" value="{$list.id}"/>
+        </div>
+        <div class="formBar">
+            <ul>
+                <li><div class="buttonActive"><div class="buttonContent"><button type="submit">保存</button></div></div></li>
+                <li><div class="button"><div class="buttonContent"><button type="button" class="close">取消</button></div></div></li>
+            </ul>
+        </div>
+    </form>
+</div>
+

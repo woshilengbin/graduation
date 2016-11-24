@@ -1,0 +1,83 @@
+<form id="pagerForm" method="post" action="{:U('index')}"  >
+    <input type="hidden" name="pageNum" value="{$curPage}" />
+    <input type="hidden" name="numPerPage" value="{$pageSize}" />
+    <input type="hidden" name="orderField" value="{$orderField}" />
+    <input type="hidden" name="orderDirection" value="{$orderDirection}" />
+</form>
+<div class="pageHeader">
+    <form rel="pagerForm" onsubmit="return navTabSearch(this);" action="{:U('index')}" method="post">
+        <div class="searchBar">
+            <ul class="searchContent">
+                <li>
+                    <label>关键字:</label>
+                    <input class="textInput" name="keyword" value="{$keyword}" type="text" >
+                    <button type="submit">查询</button>
+                </li>
+            </ul>
+        </div>
+    </form>
+</div>
+<div class="pageContent">
+    <div class="panelBar">
+        <ul class="toolBar">
+            <if condition="checkAccess($user,'addAdmin') eq true">
+                <li><a class="add" href="{:U('addAdmin')}" target="dialog" mask="true" title="添加管理员"><span>添加</span></a></li>
+            </if>
+            <if condition="checkAccess($user,'editAdmin') eq true">
+                <li><a class="edit" href="{:U('editAdmin')}?id={index_id}" mask="true" target="dialog" title="修改管理员"><span>修改</span></a></li>
+            </if>
+            <if condition="checkAccess($user,'deleteAdmin') eq true">
+                <li><a class="delete" href="{:U('deleteAdmin')}?id={index_id}" target="ajaxTodo" title="确定要删除吗?"><span>删除</span></a></li>
+            </if>
+        </ul>
+    </div>
+    <table class="table" width="100%" layoutH="140">
+        <thead>
+        <tr>
+            <th orderField="username" <eq name="orderDirection" value="asc">class="asc"<else/>class="desc"</eq>>用户名</th>
+            <th orderField="is_root" <eq name="orderDirection" value="asc">class="asc"<else/>class="desc"</eq>>身份</th>
+            <th orderField="join_time" <eq name="orderDirection" value="asc">class="asc"<else/>class="desc"</eq>>注册时间</th>
+            <th orderField="last_time" <eq name="orderDirection" value="asc">class="asc"<else/>class="desc"</eq>>上次登录</th>
+            <th orderField="last_ip" <eq name="orderDirection" value="asc">class="asc"<else/>class="desc"</eq>>上次IP</th>
+            <th orderField="status" <eq name="orderDirection" value="asc">class="asc"<else/>class="desc"</eq>>状态</th>
+            <th orderField="priority" <eq name="orderDirection" value="asc">class="asc"<else/>class="desc"</eq>>优先级</th>
+            <th>操作</th>
+        </tr>
+        </thead>
+        <tbody>
+        <volist name="list" id="listItem">
+            <tr target="index_id" rel="{$listItem.id}" <eq name="listItem.status" value="0">style="line-height:20px;color: red"</eq>>
+                <td>{$listItem.username}</td>
+                <td><eq name="listItem.is_root" value="1">超级管理员<else/>普通管理员</eq></td>
+                <td>{$listItem.join_time|date='Y-m-d H:i:s',###}</td>
+                <td><eq name="listItem.last_time" value="0">未登录<else/>{$listItem.last_time|date='Y-m-d H:i:s',###}</eq></td>
+                <td><eq name="listItem.last_ip" value="">未登录<else/>{$listItem.last_ip}</eq></td>
+                <td><eq name="listItem.status" value="1"><span style="line-height:20px;color:#59A4D0">启用中</span><else/>禁用中</eq></td>
+                <td><eq name="listItem.priority" value="1">最高优先级<else/>普通优先级</eq></td>
+                <td>
+                    <eq name="listItem.is_root" value="0">
+                        <if condition="checkAccess($user,'viewAuth') eq true">
+                            <a href="{:U('viewAuth',array('id'=>$listItem['id']))}" mask="true" target="dialog"
+                               height="500">
+                                查看权限</a>
+                        </if>
+                    </eq>
+                </td>
+            </tr>
+        </volist>
+        </tbody>
+    </table>
+    <div class="panelBar">
+        <div class="pages">
+            <span>显示</span>
+            <select class="combox" name="numPerPage" onchange="navTabPageBreak({numPerPage:this.value})">
+                <option value="10" <eq name="pageSize" value="10">selected</eq>>10</option>
+                <option value="15" <eq name="pageSize" value="15">selected</eq>>15</option>
+                <option value="20" <eq name="pageSize" value="20">selected</eq>>20</option>
+                <option value="30" <eq name="pageSize" value="30">selected</eq>>30</option>
+            </select>
+            <span>条，共{$pageCount}条</span>
+        </div>
+        <div class="pagination" targetType="navTab" totalCount="{$pageCount}" numPerPage="{$pageSize}" pageNumShown="{$pageSize}" currentPage="{$curPage}" ></div>
+    </div>
+</div>

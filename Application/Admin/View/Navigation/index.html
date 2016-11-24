@@ -1,0 +1,74 @@
+<style type="text/css">
+    .searchBar .textInput {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+    .grid .gridCol {
+        text-align: center;
+    }
+    .grid .gridTbody td div {
+        text-align: center;
+    }
+</style>
+    <form id="pagerForm" method="post" action="{:U('index')}">
+    <input type="hidden" name="pageNum" value="{$curPage}" />
+    <input type="hidden" name="numPerPage" value="{$pageSize}" />
+    <input type="hidden" name="orderField" value="{$orderField}" />
+    <input type="hidden" name="orderDirection" value="{$orderDirection}" />
+</form>
+<div class="pageContent">
+    <div class="panelBar">
+        <ul class="toolBar">
+            <li><a class="add" href="{:U('addApk')}" target="dialog" mask="true" title="添加Apk" height="450"><span>添加</span></a></li>
+            <li><a class="edit" href="{:U('editApk')}?id={apk_id}" mask="true" target="dialog" title="修改Apk" height="450"><span>修改</span></a></li>
+            <li><a class="delete" href="{:U('deleteApk')}?id={apk_id}" target="ajaxTodo" title="确定要删除吗?"><span>删除</span></a></li>
+        </ul>
+    </div>
+    <table class="table" width="100%" layoutH="150">
+        <thead>
+        <tr>
+            <th>ID </th>
+            <th>名称</th>
+            <th orderField="name" <eq name="orderDirection" value="asc">class="asc"<else/>class="desc"</eq>>应用名称</th>
+            <th orderField="package" <eq name="orderDirection" value="asc">class="asc"<else/>class="desc"</eq>>包名</th>
+            <th orderField="size" <eq name="orderDirection" value="asc">class="asc"<else/>class="desc"</eq>>文件大小</th>
+            <th>版本号</th>
+            <th>sdk</th>
+            <th>code</th>
+            <th>开发商</th>
+            <th>备注</th>
+        </tr>
+        </thead>
+        <tbody>
+        <volist name="list" id="listItem">
+        <tr target="apk_id" rel="{$listItem.id}">
+            <td><eq name="listItem.uid" value="0">System<else/>{$listItem.member.username}</eq></td>
+            <td><notempty name="listItem.icon"><img class="icon" src="__ROOT__/{$listItem.icon}"/></notempty></td>
+            <td>{$listItem.name}</td>
+            <td>{$listItem.package}</td>
+            <td>{$listItem.size|byteFormat}</td>
+            <td>{$listItem.version}</td>
+            <td>{$listItem.sdk}</td>
+            <td>{$listItem.code}</td>
+            <td>{$listItem.develope}</td>
+            <td>{$listItem.remark}</td>
+        </tr>
+        </volist>
+        </tbody>
+    </table>
+    <div class="panelBar">
+        <div class="pages">
+            <span>显示</span>
+            <select class="combox" name="numPerPage" onchange="navTabPageBreak({numPerPage:this.value})">
+                <option value="10" <eq name="pageSize" value="10">selected</eq>>10</option>
+                <option value="15" <eq name="pageSize" value="15">selected</eq>>15</option>
+                <option value="20" <eq name="pageSize" value="20">selected</eq>>20</option>
+                <option value="25" <eq name="pageSize" value="25">selected</eq>>25</option>
+            </select>
+            <span>条，共{$pageCount}条</span>
+        </div>
+
+        <div class="pagination" targetType="navTab" totalCount="{$pageCount}" numPerPage="{$pageSize}" pageNumShown="{$pageSize}" currentPage="{$curPage}"></div>
+
+    </div>
+</div>

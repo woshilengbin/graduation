@@ -1,0 +1,46 @@
+<div class="pageContent">
+    <form method="post" action="{:U('addSysMenu')}" class="pageForm required-validate" onsubmit="return validateCallback(this, dialogAjaxDone);">
+        <div class="pageFormContent" layoutH="56">
+            <fieldset>
+                <legend>菜单信息</legend>
+                <p>
+                    <label>菜单分类：</label>
+                    <select name="pid">
+                        <volist name="cateList" id="cateItem">
+                            <option value="{$cateItem.id}">{$cateItem.title}</option>
+                        </volist>
+                    </select>
+                </p>
+                <p>
+                    <label>菜单标题：</label>
+                    <input id="title" name="title" type="text" required/>
+                </p>
+                <p>
+                    <label>访问URL：</label>
+                    <input id="url" name="url" type="text" required/>
+                </p>
+                <p>
+                    <label>引用rel：</label>
+                    <input id="rel" name="rel" type="text" required/>
+                </p>
+                <p>
+                    <label>排序：</label>
+                    <input id="sort" name="sort" type="text"/>
+                </p>
+                <p>
+                    <label>状态：</label>
+                    <input type="radio" name="status" value="1" checked> 启用&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="radio" name="status" value="0"> 禁用
+                </p>
+            </fieldset>
+        </div>
+        <div class="formBar">
+            <ul>
+                <li><div class="buttonActive"><div class="buttonContent"><button type="submit">保存</button></div></div></li>
+                <li>
+                    <div class="button"><div class="buttonContent"><button type="button" class="close">取消</button></div></div>
+                </li>
+            </ul>
+        </div>
+    </form>
+</div>

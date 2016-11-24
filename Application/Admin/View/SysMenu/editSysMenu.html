@@ -1,0 +1,47 @@
+<div class="pageContent">
+    <form method="post" action="{:U('editSysMenu')}" class="pageForm required-validate" onsubmit="return validateCallback(this, dialogAjaxDone);">
+        <div class="pageFormContent" layoutH="56">
+            <fieldset>
+                <legend>菜单信息</legend>
+                <p>
+                    <label>菜单分类：</label>
+                    <select name="pid">
+                        <volist name="cateList" id="cateItem">
+                            <option value="{$cateItem.id}" <eq name="cateItem.id" value="$sysMenu.pid">selected</eq>>{$cateItem.title}</option>
+                        </volist>
+                    </select>
+                </p>
+                <p>
+                    <label>菜单标题：</label>
+                    <input id="title" name="title" type="text" value="{$sysMenu.title}" required/>
+                </p>
+                <p>
+                    <label>访问URL：</label>
+                    <input id="url" name="url" type="text" value="{$sysMenu.url}" required/>
+                </p>
+                <p>
+                    <label>引用rel：</label>
+                    <input id="rel" name="rel" type="text" value="{$sysMenu.rel}" required/>
+                </p>
+                <p>
+                    <label>排序：</label>
+                    <input id="sort" name="sort" type="text" value="{$sysMenu.sort}"/>
+                </p>
+                <p>
+                    <label>状态：</label>
+                    <input type="radio" name="status" value="1" <eq name="sysMenu.status" value="1">checked</eq>> 启用&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="radio" name="status" value="0" <eq name="sysMenu.status" value="0">checked</eq>> 禁用
+                </p>
+                <input type="hidden" name="id" value="{$sysMenu.id}">
+            </fieldset>
+        </div>
+        <div class="formBar">
+            <ul>
+                <li><div class="buttonActive"><div class="buttonContent"><button type="submit">保存</button></div></div></li>
+                <li>
+                    <div class="button"><div class="buttonContent"><button type="button" class="close">取消</button></div></div>
+                </li>
+            </ul>
+        </div>
+    </form>
+</div>
